@@ -1,6 +1,8 @@
 # 💫 About Me:
-i am currently left the company.<br>i am a Frontend Developer<br>I have specialization in Designe and Development with React,Next and multiple UI labraries<br>I am very passionate about my work.<br>i have completed graduation in BSC CS.
-
+🚀 Frontend Developer with 4+ years of experience in React.js, Next.js & TypeScript
+💼 Specialized in building scalable FinTech dashboards & enterprise platforms
+🔧 Experienced with micro-frontend architecture, OAuth2/OIDC, and CI/CD pipelines
+📌 Open to new opportunities — let's connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedsohel786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdsohel0044@gmail.com) 
