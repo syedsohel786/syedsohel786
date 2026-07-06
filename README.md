@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Frontend Developer with 4+ years of experience in React.js, Next.js & TypeScript
+🚀 Frontend Developer with 5+ years of experience in React.js, Next.js & TypeScript
 💼 Specialized in building scalable FinTech dashboards & enterprise platforms
 🔧 Experienced with micro-frontend architecture, OAuth2/OIDC, and CI/CD pipelines
 📌 Open to new opportunities — let's connect!
